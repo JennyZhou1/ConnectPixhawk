@@ -1,2 +1,2 @@
 # ConnectPixhawk
-# this file is used to send and receive messages between pixhawk and odroid Xu
+# This file is used to send and receive messages between pixhawk and odroid Xu
